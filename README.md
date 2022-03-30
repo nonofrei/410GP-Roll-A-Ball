@@ -4,3 +4,4 @@ Here's the link to play my game! https://play.unity.com/mg/other/410-game-progra
 
 
 All the files are zipped since they are relativley large.
+There are two files. One that was built for WebGL and the other for an application setting.
